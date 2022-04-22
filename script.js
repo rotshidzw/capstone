@@ -22,7 +22,7 @@ const speakers = [
     summary: 'the greatest Ronaldo to play the game ',
     summary2: 'Ronaldo was 21 years old, both Barcelona and Inter Milan had paid world transfer record prices to land his talents',
   },
-   {
+  {
     name: 'Lionel Messi ',
     image: 'images/lionel.png',
     summary: 'Messi  the greatest soccer player ever ',
