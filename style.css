@@ -34,7 +34,7 @@ hr {
 }
 
 .ban {
-  background-image: url("football-bg.png");
+  background-image: url("images/football-bg.png");
   background-repeat: no-repeat;
   padding: 20px 0;
 }
@@ -101,7 +101,7 @@ hr {
 }
 
 .prog {
-  background-image: url("x-pattern.svg");
+  background-image: url("images/x-pattern.svg");
   padding-bottom: 20px;
 }
 
@@ -217,7 +217,7 @@ hr {
 }
 
 #event-0 {
-  background-image: url("set.jpg");
+  background-image: url("images/set.jpg");
   grid-row-start: 1;
   grid-column-start: 1;
   grid-row-end: 2;
@@ -229,7 +229,7 @@ hr {
 }
 
 #event-1 {
-  background-image: url("center.jpg");
+  background-image: url("images/center.jpg");
   grid-row-start: 2;
   grid-column-start: 1;
   grid-row-end: 3;
