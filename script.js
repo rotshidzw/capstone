@@ -12,7 +12,7 @@ const speakers = [
   },
   {
     name: 'Neymar Jr',
-    image: 'images/ney.png',
+    image: 'images/speaker2.png',
     summary: 'Neymar is already one of the greatest players ',
     summary2: ' Neymar’s potential is that he already owns the richest deal in professional soccer history, inking a 222-million-pound contract when he transferred from Barcelona to Paris Saint-Germain in 2017',
   },
