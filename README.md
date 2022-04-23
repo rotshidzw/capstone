@@ -6,7 +6,7 @@ A capstone project is the final project of the module were by you have create a 
 live demo: https://rotshidzw.github.io/capstone
 > i managed to   make  good layout and   follow the font  as well as the  colors  the page look identical   and we have home page and about bage prepared  
 
-video link:https://www.loom.com/share/6b81dd32a5ec4c089b57abbf573ab470
+video link:https://www.loom.com/share/07c38b2a2f474ea0a6eec61c6eb84da8
 
 
 ## Built With
