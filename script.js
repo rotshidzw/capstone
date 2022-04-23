@@ -6,13 +6,13 @@ const speakers = [
   6,
   {
     name: 'Zinedine Zidane',
-    image: 'images/speaker2.png',
+    image: 'images/speaker.png',
     summary: 'Zidane’s international career',
     summary2: ' Zidane, who went down in history as one of the winningest players the game has ever seen',
   },
   {
     name: 'Neymar Jr',
-    image: 'images/speaker2.png',
+    image: 'images/speaker1.png',
     summary: 'Neymar is already one of the greatest players ',
     summary2: ' Neymar’s potential is that he already owns the richest deal in professional soccer history, inking a 222-million-pound contract when he transferred from Barcelona to Paris Saint-Germain in 2017',
   },
@@ -24,19 +24,19 @@ const speakers = [
   },
   {
     name: 'Lionel Messi ',
-    image: 'images/speaker2.png',
+    image: 'images/speaker4.png',
     summary: 'Messi  the greatest soccer player ever ',
     summary2: ' Messi had already tied the record for the most Ballon d’Or awards, led Barcelona to nine La Liga titles and four UEFA Champions League crowns, and was La Liga’s all-time leading scorer',
   },
   {
     name: ' Pelé',
-    image: 'images/speaker2.png',
+    image: 'images/speaker5.png',
     summary: 'Pelé is the only player to ever win three World Cup titles, and his 0.85 goals-per-game average ',
     summary2: 'No player in the history of international soccer may ever match the success enjoyed by the great Edson Arantes do Nascimento',
   },
   {
     name: 'Cristiano Ronaldo',
-    image: 'images/speaker2.png',
+    image: 'images/speaker6.png',
     summary: 'Ronaldo actually ranks among the all-time greats ',
     summary2: 'Ronaldo to be the world’s most famous athlete in each of the past three years, and he topped the Forbes list of highest-paid athletes in 2016 and 2017',
   },
