@@ -49,12 +49,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   for (let i = 1; i <= speakers[0]; i += 1) {
     const speakerCards = `<div id="speaker-${i}" class="only-desktop">
-  <img src="${speakers[i].image}" alt="Image of speaker">
+  <img src="${speakers[1].image}" alt="Image of speaker">
   <div>
-  <h3>${speakers[i].name}</h3>
-  <p class="speaker-summary">${speakers[i].summary}</p>
+  <h3>${speakers[1].name}</h3>
+  <p class="speaker-summary">${speakers[1].summary}</p>
   <hr>
-  <p>${speakers[i].summary2}</p>
+  <p>${speakers[1].summary2}</p>
   </div>
   </div>`;
 
