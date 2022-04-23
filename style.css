@@ -50,8 +50,6 @@ hr {
   text-transform: uppercase;
   background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
   -webkit-background-clip: text;
-  /*-moz-background-clip: padding;
-  background-clip: content-box;*/
   color: transparent;
 }
 
@@ -341,7 +339,6 @@ hr {
     color: #ec5242;
     margin-top: 16%;
     margin-bottom: 12%;
-
   }
 
   #prog-1 {
@@ -365,7 +362,6 @@ hr {
     margin: 20px 5px;
     font-size: 17px;
     color: #d3d3d3;
-
   }
 
   #prog-1 .title {
@@ -957,7 +953,7 @@ hr {
 
   .prog.prog .prog-line .cards img {
     height: 50px;
-    padding-left: 5.7rem;
+    padding-left: 7.5rem;
     padding-top: 10px;
   }
 
@@ -983,6 +979,7 @@ hr {
   .prog.prog #prog-0 .title {
     text-align: center;
     color: #ec5242;
+    font-weight: 700;
   }
 
   .prog.prog #prog-1 {
@@ -1003,6 +1000,7 @@ hr {
   .prog.prog #prog-1 .title {
     text-align: center;
     color: #ec5242;
+    font-weight: 700;
   }
 
   .prog.prog #prog-2 {
@@ -1023,7 +1021,7 @@ hr {
   .prog.prog #prog-2 .title {
     text-align: center;
     color: #ec5242;
-    text-weight: 600px;
+    font-weight: 700;
   }
 
   .prog.prog #prog-3 {
@@ -1044,6 +1042,7 @@ hr {
   .prog.prog #prog-3 .title {
     text-align: center;
     color: #ec5242;
+    font-weight: 700;
   }
 
   .prog.prog #prog-4 {
@@ -1064,6 +1063,7 @@ hr {
   .prog.prog #prog-4 .title {
     text-align: center;
     color: #ec5242;
+    font-weight: 700;
   }
 
   .speakers.speakers {
