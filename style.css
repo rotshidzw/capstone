@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
 
 body {
-  background: #d3d3d3;
+  background: #f8f9fa;
   color: #585858;
   font-family: "Lato", sans-serif;
 }
@@ -50,8 +50,8 @@ hr {
   text-transform: uppercase;
   background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
   -webkit-background-clip: text;
-  -moz-background-clip: padding;
-  background-clip: content-box;
+  /*-moz-background-clip: padding;
+  background-clip: content-box;*/
   color: transparent;
 }
 
@@ -341,6 +341,7 @@ hr {
     color: #ec5242;
     margin-top: 16%;
     margin-bottom: 12%;
+
   }
 
   #prog-1 {
@@ -364,6 +365,7 @@ hr {
     margin: 20px 5px;
     font-size: 17px;
     color: #d3d3d3;
+
   }
 
   #prog-1 .title {
@@ -955,7 +957,8 @@ hr {
 
   .prog.prog .prog-line .cards img {
     height: 50px;
-    margin: 28px 20px 10px 60px;
+    padding-left: 5.7rem;
+    padding-top: 10px;
   }
 
   .prog.prog #prog-0 {
@@ -1020,6 +1023,7 @@ hr {
   .prog.prog #prog-2 .title {
     text-align: center;
     color: #ec5242;
+    text-weight: 600px;
   }
 
   .prog.prog #prog-3 {

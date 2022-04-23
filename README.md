@@ -3,7 +3,7 @@ A capstone project is the final project of the module were by you have create a 
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-
+live demo: https://rotshidzw.github.io/capstone
 > i managed to   make  good layout and   follow the font  as well as the  colors  the page look identical   and we have home page and about bage prepared  
 
 video link:https://www.loom.com/share/6b81dd32a5ec4c089b57abbf573ab470
@@ -45,7 +45,7 @@ Use git clone <filename> to clone the repository.
  **Author1**
  https://github.com/Richez003
 ## 🤝 Contributing
-
+https://www.behance.net/adagio07
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/rotshidzw/Hello-microverse/issues).

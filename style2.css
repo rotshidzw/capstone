@@ -253,7 +253,9 @@
     max-width: 86%;
     margin-left: 109px;
   }
-
+.container{
+  padding: 100px 100px 128px 250px;
+}
   .ban.ban {
     padding: 100px 100px 128px 100px;
   }
@@ -312,7 +314,6 @@
 
   .prog.prog .prog-line .cards img {
     height: 50px;
-    margin: 28px 20px 10px 110px;
   }
 
   .prog.prog #prog-0 {
@@ -495,7 +496,10 @@
     background-color: #fff;
     color: #585858;
   }
-
+  .color-f {
+    background-color: rgb(106, 104, 104);
+    color: #f4eded;
+  }
   .move.move {
     margin-left: 80px;
     max-width: 800px !important;
